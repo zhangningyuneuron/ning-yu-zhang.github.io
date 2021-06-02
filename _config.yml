@@ -11,14 +11,15 @@ show_social: true
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/NZ_cv.pdf ", title: "CV"} 
-  - {title: "Research", url: "https://scholar.google.com/citations?user=GMEpmDgAAAAJ&hl=en&oi=ao" }
-  - {file: "/images", title: "Photography"}
+  - {title: "CV", file: "NZ_cv.pdf"} 
+  - {title: "PhD thesis", file: "NZ_phd_final.pdf"}
+  - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=GMEpmDgAAAAJ&hl=en&oi=ao" }
+  - {title: "Photography", file: "/images"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
