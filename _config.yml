@@ -16,7 +16,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "NZ_cv.pdf"} 
+  - {title: "CV", file: "/NZ_cv.pdf"} 
   - {title: "PhD thesis", file: "NZ_phd_final.pdf"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=GMEpmDgAAAAJ&hl=en&oi=ao" }
   - {title: "Photography", file: "/images"}
