@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://ning-yu-zhang.github.io/NINGYU ZHANG cv.pdf"} 
   - {title: "PhD thesis", url: "https://discovery.ucl.ac.uk/id/eprint/10129923/"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=GMEpmDgAAAAJ&hl=en&oi=ao" }
-  - {title: "Resources", file: "/images"}
+  - {title: "Resources", url:"https://www.ninglongxu-lab.org/"}
   
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
