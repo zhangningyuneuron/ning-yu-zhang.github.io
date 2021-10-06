@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", url: "https://ning-yu-zhang.github.io/NINGYU ZHANG cv.pdf"} 
     <embed src="https://ning-yu-zhang.github.io/NINGYU ZHANG cv.pdf" type="application/pdf" />
-  - {title: "PhD thesis", url: "ning-yu-zhang.github.io/Final_Thesis_NingyuZhang.pdf"}
+  - {title: "PhD thesis", url: "https://ning-yu-zhang.github.io/Final_Thesis_NingyuZhang.pdf"}
   - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=GMEpmDgAAAAJ&hl=en&oi=ao" }
   - {title: "Resources", file: "/images"}
   
